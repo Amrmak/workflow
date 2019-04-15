@@ -62,7 +62,7 @@
 		"stylelint-prettier": "^1.0.6",
 		"vinyl-buffer": "^1.0.1",
 		"vinyl-source-stream": "^2.0.0",
-		"workbox-build": "^4.2.0"
+		"workbox-build": "^4.3.0"
 	},
 	"dependencies": {}
 }
