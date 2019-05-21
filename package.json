@@ -13,7 +13,7 @@
 	},
 	"devDependencies": {
 		"@babel/core": "^7.4.5",
-		"@babel/preset-env": "^7.4.3",
+		"@babel/preset-env": "^7.4.5",
 		"babelify": "^10.0.0",
 		"browser-sync": "^2.2.1",
 		"browserify": "^16.2.3",
